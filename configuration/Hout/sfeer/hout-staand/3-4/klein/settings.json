@@ -1,0 +1,46 @@
+{  
+	"layers":[  
+		{  
+			"image_type":"image_background",
+			"file":"background.png",
+			"size":{  
+				"width":"1200",
+            	"height":"800"
+         	}
+      	},
+      	{  
+         	"image_type":"perspective_distortion_mask",
+         	"file":"mask.png",
+         	"coordinates":{  
+            	"topLeft":{  
+               		"Sx":0,
+               		"Sy":0,
+               		"Dx":"231",
+               		"Dy":"111"
+            	},
+            	"topRight":{  
+               		"Sx":0,
+               		"Sy":0,
+               		"Dx":"711",
+               		"Dy":"111"
+            	},
+            	"bottomLeft":{  
+               		"Sx":0,
+               		"Sy":0,
+               		"Dx":"230",
+               		"Dy":"748"
+            	},
+            	"bottomRight":{  
+               		"Sx":0,
+               		"Sy":0,
+               		"Dx":"711",
+               		"Dy":"748"
+            	}
+         	}
+      	},
+      	{
+			"image_type": "perspective_distortion_overlay",
+			"file": "overlay.png"
+		}
+   ]
+}

@@ -1,0 +1,1132 @@
+{
+    "forex":{
+        "2:1":[
+            {
+                "folder":"product/forex-liggend/2-1",
+                "description":"Preview forex liggend"
+            },
+            {
+                "folder":"sfeer/forex-liggend/2-1/groot",
+                "description":"Preview forex in woonkamer liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"product/forex-liggend/3-2",
+                "description":"Preview forex liggend"
+            },
+            {
+                "folder":"sfeer/forex-liggend/3-2/groot",
+                "description":"Preview forex in woonkamer liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"product/forex-liggend/4-3",
+                "description":"Preview forex liggend"
+            },
+            {
+                "folder":"sfeer/forex-liggend/4-3/groot",
+                "description":"Preview forex in woonkamer liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"product/forex-staand/1-2",
+                "description":"Preview forex Staand "
+            },
+            {
+                "folder":"sfeer/forex-staand/1-2/groot",
+                "description":"Preview forex in woonkamer staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"product/forex-staand/2-3",
+                "description":"Preview forex staand"
+            },
+            {
+                "folder":"sfeer/forex-staand/2-3/groot",
+                "description":"Preview forex in woonkamer staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"product/forex-staand/3-4",
+                "description":"Preview forex staand"
+            },
+            {
+                "folder":"sfeer/forex-staand/3-4/groot",
+                "description":"Preview forex in woonkamer staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"product/forex-vierkant/1-1",
+                "description":"Preview forex vierkant"
+            },
+            {
+                "folder":"sfeer/forex-vierkant/1-1/middel",
+                "description":"Preview forex in woonkamer vierkant"
+            }
+        ]
+    },
+    "aluminium":{
+        "2:1":[
+            {
+                "folder":"product/aluminium-liggend/2-1",
+                "description":"Preview aluminium liggend"
+            },
+            {
+                "folder":"sfeer/aluminium-liggend/2-1/groot",
+                "description":"Preview aluminium in woonkamer liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"product/aluminium-liggend/3-2",
+                "description":"Preview aluminium liggend"
+            },
+            {
+                "folder":"sfeer/aluminium-liggend/3-2/groot",
+                "description":"Preview aluminium in woonkamer liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"product/aluminium-liggend/4-3",
+                "description":"Preview aluminium liggend"
+            },
+            {
+                "folder":"sfeer/aluminium-liggend/4-3/groot",
+                "description":"Preview aluminium in woonkamer liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"product/aluminium-staand/1-2",
+                "description":"Preview aluminium Staand"
+            },
+            {
+                "folder":"sfeer/aluminium-staand/1-2/groot",
+                "description":"Preview aluminium in woonkamer staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"product/aluminium-staand/2-3",
+                "description":"Preview aluminium staand "
+            },
+            {
+                "folder":"sfeer/aluminium-staand/2-3/groot",
+                "description":"Preview aluminium in woonkamer staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"product/aluminium-staand/3-4",
+                "description":"Preview aluminium staand"
+            },
+            {
+                "folder":"sfeer/aluminium-staand/3-4/groot",
+                "description":"Preview aluminium in woonkamer staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"product/aluminium-vierkant/1-1",
+                "description":"Preview aluminium vierkant"
+            },
+            {
+                "folder":"sfeer/aluminium-vierkant/1-1/middel",
+                "description":"Preview aluminium in woonkamer vierkant"
+            }
+        ]
+    },
+    "hout":{
+        "2:1":[
+            {
+                "folder":"product/hout-liggend/2-1",
+                "description":"Preview hout liggend"
+            },
+            {
+                "folder":"sfeer/hout-liggend/2-1/groot",
+                "description":"Preview hout in woonkamer liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"product/hout-liggend/3-2",
+                "description":"Preview hout liggend"
+            },
+            {
+                "folder":"sfeer/hout-liggend/3-2/groot",
+                "description":"Preview hout in woonkamer liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"product/hout-liggend/4-3",
+                "description":"Preview hout liggend"
+            },
+            {
+                "folder":"sfeer/hout-liggend/4-3/groot",
+                "description":"Preview hout in woonkamer liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"product/hout-staand/1-2",
+                "description":"Preview hout Staand "
+            },
+            {
+                "folder":"sfeer/hout-staand/1-2/groot",
+                "description":"Preview hout in woonkamer staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"product/hout-staand/2-3",
+                "description":"Preview hout staand"
+            },
+            {
+                "folder":"sfeer/hout-staand/2-3/groot",
+                "description":"Preview hout in woonkamer staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"product/hout-staand/3-4",
+                "description":"Preview hout staand"
+            },
+            {
+                "folder":"sfeer/hout-staand/3-4/groot",
+                "description":"Preview hout in woonkamer staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"product/hout-vierkant/1-1",
+                "description":"Preview hout vierkant"
+            },
+            {
+                "folder":"sfeer/hout-vierkant/1-1/klein",
+                "description":"Preview hout in woonkamer vierkant"
+            }
+        ]
+    },
+    "poster":{
+        "2:1":[
+            {
+                "folder":"product/poster-liggend/2-1",
+                "description":"Preview poster liggend"
+            },
+            {
+                "folder":"sfeer/poster-liggend/2-1/groot",
+                "description":"Preview poster in woonkamer liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"product/poster-liggend/3-2",
+                "description":"Preview poster liggend"
+            },
+            {
+                "folder":"sfeer/poster-liggend/3-2/groot",
+                "description":"Preview poster in woonkamer liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"product/poster-liggend/4-3",
+                "description":"Preview poster liggend"
+            },
+            {
+                "folder":"sfeer/poster-liggend/4-3/groot",
+                "description":"Preview poster in woonkamer liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"product/poster-staand/1-2",
+                "description":"Preview poster Staand"
+            },
+            {
+                "folder":"sfeer/poster-staand/1-2/groot",
+                "description":"Preview poster in woonkamer staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"product/poster-staand/2-3",
+                "description":"Preview poster staand"
+            },
+            {
+                "folder":"sfeer/poster-staand/2-3/groot",
+                "description":"Preview poster in woonkamer staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"product/poster-staand/3-4",
+                "description":"Preview poster staand"
+            },
+            {
+                "folder":"sfeer/poster-staand/3-4/groot",
+                "description":"Preview poster in woonkamer staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"product/poster-vierkant/1-1",
+                "description":"Preview poster vierkant"
+            },
+            {
+                "folder":"sfeer/poster-vierkant/1-1/middel",
+                "description":"Preview poster in woonkamer vierkant"
+            }
+        ]
+    },
+    "glas":{
+        "2:1":[
+            {
+                "folder":"product/glas-liggend/2-1",
+                "description":"Preview glas liggend"
+            },
+            {
+                "folder":"sfeer/glas-liggend/2-1/groot",
+                "description":"Preview glas in woonkamer liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"product/glas-liggend/3-2",
+                "description":"Preview glas liggend"
+            },
+            {
+                "folder":"sfeer/glas-liggend/3-2/groot",
+                "description":"Preview glas in woonkamer liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"product/glas-liggend/4-3",
+                "description":"Preview glas liggend"
+            },
+            {
+                "folder":"sfeer/glas-liggend/4-3/groot",
+                "description":"Preview glas in woonkamer liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"product/glas-staand/1-2",
+                "description":"Preview glas Staand"
+            },
+            {
+                "folder":"sfeer/glas-staand/1-2/groot",
+                "description":"Preview glas in woonkamer staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"product/glas-staand/2-3",
+                "description":"Preview glas staand"
+            },
+            {
+                "folder":"sfeer/glas-staand/2-3/groot",
+                "description":"Preview glas in woonkamer staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"product/glas-staand/3-4",
+                "description":"Preview glas staand"
+            },
+            {
+                "folder":"sfeer/glas-staand/3-4/groot",
+                "description":"Preview glas in woonkamer staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"product/glas-vierkant/1-1",
+                "description":"Preview glas vierkant"
+            },
+            {
+                "folder":"sfeer/glas-vierkant/1-1/middel",
+                "description":"Preview glas in woonkamer vierkant"
+            }
+        ]
+    },
+    "canvas":{
+        "2:1":[
+            {
+                "folder":"product/canvas-liggend/2-1",
+                "description":"Preview canvas liggend"
+            },
+            {
+                "folder":"sfeer/canvas-liggend/2-1/groot",
+                "description":"Preview canvas in woonkamer liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"product/canvas-liggend/3-2",
+                "description":"Preview canvas liggend"
+            },
+            {
+                "folder":"sfeer/canvas-liggend/3-2/groot",
+                "description":"Preview canvas in woonkamer liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"product/canvas-liggend/4-3",
+                "description":"Preview canvas liggend"
+            },
+            {
+                "folder":"sfeer/canvas-liggend/4-3/groot",
+                "description":"Preview canvas in woonkamer liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"product/canvas-staand/1-2",
+                "description":"Preview canvas Staand"
+            },
+            {
+                "folder":"sfeer/canvas-staand/1-2/groot",
+                "description":"Preview canvas in woonkamer staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"product/canvas-staand/2-3",
+                "description":"Preview canvas staand"
+            },
+            {
+                "folder":"sfeer/canvas-staand/2-3/groot",
+                "description":"Preview canvas in woonkamer staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"product/canvas-staand/3-4",
+                "description":"Preview canvas staand"
+            },
+            {
+                "folder":"sfeer/canvas-staand/3-4/groot",
+                "description":"Preview canvas in woonkamer staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"product/canvas-vierkant/1-1",
+                "description":"Preview canvas vierkant"
+            },
+            {
+                "folder":"sfeer/canvas-vierkant/1-1/middel",
+                "description":"Preview canvas in woonkamer vierkant"
+            }
+        ]
+    },
+    "tuinposter":{
+        "2:1":[
+            {
+                "folder":"product/tuinposter-liggend/2-1",
+                "description":"Preview tuinposter liggend"
+            },
+            {
+                "folder":"sfeer/tuinposter-liggend/2-1",
+                "description":"Preview tuinposter in tuin liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"product/tuinposter-liggend/3-2",
+                "description":"Preview tuinposter liggend"
+            },
+            {
+                "folder":"sfeer/tuinposter-liggend/3-2",
+                "description":"Preview tuinposter in tuin liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"product/tuinposter-liggend/4-3",
+                "description":"Preview tuinposter liggend"
+            },
+            {
+                "folder":"sfeer/tuinposter-liggend/4-3",
+                "description":"Preview tuinposter in tuin liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"product/tuinposter-staand/1-2",
+                "description":"Preview tuinposter Staand "
+            },
+            {
+                "folder":"sfeer/tuinposter-staand/1-2",
+                "description":"Preview tuinposter in tuin staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"product/tuinposter-staand/2-3",
+                "description":"Preview tuinposter staand"
+            },
+            {
+                "folder":"sfeer/tuinposter-staand/2-3",
+                "description":"Preview tuinposter in tuin staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"product/tuinposter-staand/3-4",
+                "description":"Preview tuinposter staand"
+            },
+            {
+                "folder":"sfeer/tuinposter-staand/3-4",
+                "description":"Preview tuinposter in tuin staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"product/tuinposter-vierkant/1-1",
+                "description":"Preview tuinposter vierkant"
+            },
+            {
+                "folder":"sfeer/tuinposter-vierkant/1-1",
+                "description":"Preview tuinposter in tuin vierkant"
+            }
+        ]
+    },
+    "fotobehang":{
+        "2:1":[
+            {
+                "folder":"/liggend",
+                "description":"Preview behang liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"/liggend",
+                "description":"Preview behang liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"/liggend",
+                "description":"Preview behang liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"/staand",
+                "description":"Preview behang Staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"/staand",
+                "description":"Preview behang in woonkamer staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"/staand",
+                "description":"Preview behang staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"/vierkant",
+                "description":"Preview behang vierkant"
+            }
+        ]
+    },
+    "fotolijst":{
+        "3:2":[
+            {
+                "folder":"sfeer/fotolijst-liggend/3-2/middel",
+                "description":"Preview fotolijst in woonkamer liggend"
+            },
+            {
+                "folder":"product/fotolijst-liggend/3-2/wit-zonder-passe-partout",
+                "description":"Preview wit zonder passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/3-2/zwart-zonder-passe-partout",
+                "description":"Preview zwart zonder passe partout"
+            }
+        ],
+        "5:4":[
+            {
+                "folder":"sfeer/fotolijst-liggend/5-4/middel",
+                "description":"Preview fotolijst in woonkamer liggend"
+            },
+            {
+                "folder":"product/fotolijst-liggend/5-4/wit-zonder-passe-partout",
+                "description":"Preview wit zonder passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/5-4/zwart-zonder-passe-partout",
+                "description":"Preview zwart zonder passe partout"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"sfeer/fotolijst-liggend/4-3/middel",
+                "description":"Preview fotolijst in woonkamer liggend"
+            },
+            {
+                "folder":"product/fotolijst-liggend/4-3/wit-zonder-passe-partout",
+                "description":"Preview wit zonder passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/4-3/zwart-zonder-passe-partout",
+                "description":"Preview zwart zonder passe partout"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"/sfeer/fotolijst-staand/2-3/middel",
+                "description":"Preview fotolijst in woonkamer staand"
+            },
+            {
+                "folder":"product/fotolijst-staand/2-3/wit-zonder-passe-partout",
+                "description":"Preview wit zonder passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/2-3/zwart-zonder-passe-partout",
+                "description":"Preview zwart zonder passe partout"
+            }
+        ],
+        "4:5":[
+            {
+                "folder":"/sfeer/fotolijst-staand/4-5/middel",
+                "description":"Preview fotolijst in woonkamer staand"
+            },
+            {
+                "folder":"product/fotolijst-staand/4-5/wit-zonder-passe-partout",
+                "description":"Preview wit zonder passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/4-5/zwart-zonder-passe-partout",
+                "description":"Preview zwart zonder passe partout"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"/sfeer/fotolijst-staand/3-4/middel",
+                "description":"Preview fotolijst in woonkamer staand"
+            },
+            {
+                "folder":"product/fotolijst-staand/3-4/wit-zonder-passe-partout",
+                "description":"Preview wit zonder passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/3-4/zwart-zonder-passe-partout",
+                "description":"Preview zwart zonder passe partout"
+            }
+        ]
+    },
+    "fotolijstp40x60":{
+        "3:2":[
+            {
+                "folder":"sfeer/fotolijst-liggend/3-2/klein",
+                "description":"Preview fotolijst in woonkamer liggend"
+            },
+            {
+                "folder":"product/fotolijst-liggend/3-2/wit-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/3-2/wit-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/3-2/zwart-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/3-2/zwart-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"sfeer/fotolijst-staand/2-3/middel",
+                "description":"Preview fotolijst in woonkamer staand"
+            },
+            {
+                "folder":"product/fotolijst-staand/2-3/wit-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/2-3/wit-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/2-3/zwart-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/2-3/zwart-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            }
+        ]
+    },
+    "fotolijstp40x50":{
+        "5:4":[
+            {
+                "folder":"sfeer/fotolijst-liggend/5-4/middel",
+                "description":"Preview fotolijst in woonkamer liggend"
+            },
+            {
+                "folder":"product/fotolijst-liggend/5-4/wit-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/5-4/wit-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/5-4/zwart-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/5-4/zwart-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            }
+        ],
+        "4:5":[
+            {
+                "folder":"sfeer/fotolijst-staand/4-5/middel",
+                "description":"Preview fotolijst in woonkamer staand"
+            },
+            {
+                "folder":"product/fotolijst-staand/4-5/wit-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/4-5/wit-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/4-5/zwart-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/4-5/zwart-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            }
+        ]
+    },
+    "fotolijstp30x40":{
+        "4:3":[
+            {
+                "folder":"sfeer/fotolijst-liggend/4-3/middel",
+                "description":"Preview fotolijst in woonkamer liggend"
+            },
+            {
+                "folder":"product/fotolijst-liggend/4-3/wit-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/4-3/wit-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/4-3/zwart-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-liggend/4-3/zwart-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"sfeer/fotolijst-staand/3-4/middel",
+                "description":"Preview fotolijst in woonkamer staand"
+            },
+            {
+                "folder":"product/fotolijst-staand/3-4/wit-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/3-4/wit-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/3-4/zwart-witte-passe-partout",
+                "description":"Preview wit witte passe partout"
+            },
+            {
+                "folder":"product/fotolijst-staand/3-4/zwart-zwarte-passe-partout",
+                "description":"Preview zwart zwarte passe partout"
+            }
+        ]
+    },
+    "textielposter-latten":{
+        "2:1":[
+		    {
+                "folder":"product/textielposter-latten-liggend/2-1",
+                "description":"Preview textielposter-latten liggend"
+            },
+		    {
+                "folder":"sfeer/textielposter-latten-liggend/2-1/middel",
+                "description":"Preview textielposter-latten in woonkamer liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"product/textielposter-latten-liggend/3-2",
+                "description":"Preview textielposter-latten liggend"
+            },
+            {
+                "folder":"sfeer/textielposter-latten-liggend/3-2/middel",
+                "description":"Preview textielposter-latten in woonkamer liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"product/textielposter-latten-liggend/4-3",
+                "description":"Preview textielposter-latten liggend"
+            },
+            {
+                "folder":"sfeer/textielposter-latten-liggend/4-3/middel",
+                "description":"Preview textielposter-latten in woonkamer liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"product/textielposter-latten-staand/1-2",
+                "description":"Preview textielposter-latten staand"
+            },
+            {
+                "folder":"sfeer/textielposter-latten-staand/1-2/middel",
+                "description":"Preview textielposter-latten in woonkamer staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"product/textielposter-latten-staand/2-3",
+                "description":"Preview textielposter-latten staand"
+            },
+            {
+                "folder":"sfeer/textielposter-latten-staand/2-3/middel",
+                "description":"Preview textielposter-latten in woonkamer staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"product/textielposter-latten-staand/3-4",
+                "description":"Preview textielposter-latten staand"
+            },
+            {
+                "folder":"sfeer/textielposter-latten-staand/3-4/middel",
+                "description":"Preview textielposter-latten in woonkamer staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"product/textielposter-latten-vierkant",
+                "description":"Preview textielposter-latten vierkant"
+            },
+            {
+                "folder":"sfeer/textielposter-latten-vierkant/middel",
+                "description":"Preview textielposter-latten in woonkamer vierkant"
+            }
+        ]
+    },
+    "textielposter-stokken":{
+        "2:1":[
+            {
+                "folder":"product/textielposter-stokken-liggend/2-1",
+                "description":"Preview textielposter-stokken liggend"
+            },
+            {
+                "folder":"sfeer/textielposter-stokken-liggend/2-1/middel",
+                "description":"Preview textielposter-stokken in woonkamer liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"product/textielposter-stokken-liggend/3-2",
+                "description":"Preview textielposter-stokken liggend"
+            },
+            {
+                "folder":"sfeer/textielposter-stokken-liggend/3-2/middel",
+                "description":"Preview textielposter-stokken in woonkamer liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"product/textielposter-stokken-liggend/4-3",
+                "description":"Preview textielposter-stokken liggend"
+            },
+            {
+                "folder":"sfeer/textielposter-stokken-liggend/4-3/middel",
+                "description":"Preview textielposter-stokken in woonkamer liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"product/textielposter-stokken-staand/1-2",
+                "description":"Preview textielposter-stokken staand"
+            },
+            {
+                "folder":"sfeer/textielposter-stokken-staand/1-2/middel",
+                "description":"Preview textielposter-stokken in woonkamer staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"product/textielposter-stokken-staand/2-3",
+                "description":"Preview textielposter-stokken staand"
+            },
+            {
+                "folder":"sfeer/textielposter-stokken-staand/2-3/middel",
+                "description":"Preview textielposter-stokken in woonkamer staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"product/textielposter-stokken-staand/3-4",
+                "description":"Preview textielposter-stokken staand"
+            },
+            {
+                "folder":"sfeer/textielposter-stokken-staand/3-4/middel",
+                "description":"Preview textielposter-stokken in woonkamer staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"product/textielposter-stokken-vierkant",
+                "description":"Preview textielposter-stokken vierkant"
+            },
+            {
+                "folder":"sfeer/textielposter-stokken-vierkant/middel",
+                "description":"Preview textielposter-stokken in woonkamer vierkant"
+            }
+        ]
+    },
+    "wandkleed":{
+        "2:1":[
+            {
+                "folder":"product/wandkleed-liggend/2-1",
+                "description":"Preview wandkleed liggend"
+            },
+            {
+                "folder":"sfeer/wandkleed-liggend/2-1/middel",
+                "description":"Preview wandkleed in woonkamer liggend"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"product/wandkleed-liggend/3-2",
+                "description":"Preview wandkleed liggend"
+            },
+            {
+                "folder":"sfeer/wandkleed-liggend/3-2/middel",
+                "description":"Preview wandkleed in woonkamer liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"product/wandkleed-liggend/4-3",
+                "description":"Preview wandkleed liggend"
+            },
+            {
+                "folder":"sfeer/wandkleed-liggend/4-3/middel",
+                "description":"Preview wandkleed in woonkamer liggend"
+            }
+        ],
+        "1:2":[
+            {
+                "folder":"product/wandkleed-staand/1-2",
+                "description":"Preview wandkleed Staand "
+            },
+            {
+                "folder":"sfeer/wandkleed-staand/1-2/middel",
+                "description":"Preview wandkleed in woonkamer staand"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"product/wandkleed-staand/2-3",
+                "description":"Preview wandkleed staand"
+            },
+            {
+                "folder":"sfeer/wandkleed-staand/2-3/middel",
+                "description":"Preview wandkleed in woonkamer staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"product/wandkleed-staand/3-4",
+                "description":"Preview wandkleed staand"
+            },
+            {
+                "folder":"sfeer/wandkleed-staand/3-4/middel",
+                "description":"Preview wandkleed in woonkamer staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"product/wandkleed-vierkant",
+                "description":"Preview wandkleed vierkant"
+            },
+            {
+                "folder":"sfeer/wandkleed-vierkant/middel",
+                "description":"Preview wandkleed in woonkamer vierkant"
+            }
+        ]
+    },
+    "zitzak":{
+        "11:8":[
+            {
+                "folder":"zitzak-liggend/11-8/140x100",
+                "description":"Preview zitzak liggend"
+            }
+        ],
+        "4:3":[
+            {
+                "folder":"zitzak-liggend/4-3/175x135",
+                "description":"Preview zitzak liggend"
+            }
+        ],
+        "8:11":[
+            {
+                "folder":"zitzak-staand/8-11/100x140",
+                "description":"Preview zitzak staand"
+            }
+        ],
+        "3:4":[
+            {
+                "folder":"zitzak-staand/3-4/135x175",
+                "description":"Preview zitzak staand"
+            }
+        ],
+        "1:1":[
+            {
+                "folder":"zitzak-vierkant/1-1/135x135",
+                "description":"Preview zitzak vierkant"
+            }
+        ]
+    },
+    "placemat":{
+        "11:8":[
+            {
+                "folder":"placemat-groot/11-8",
+                "description":"Preview placemat groot liggend"
+            },
+            {
+                "folder":"placemat-klein/11-8",
+                "description":"Preview placemat klein liggend"
+            }
+        ]
+    },
+    "fotoblok":{
+        "1:1":[
+            {
+                "folder":"bamboe/fotoblok-vierkant/1-1",
+                "description":"Preview fotoblok vierkant bamboe"
+            },
+            {
+                "folder":"berkenplex/fotoblok-vierkant/1-1",
+                "description":"Preview fotoblok vierkant berkenplex"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"bamboe/fotoblok-liggend/3-2",
+                "description":"Preview fotoblok liggend bamboe"
+            },
+            {
+                "folder":"berkenplex/fotoblok-liggend/3-2",
+                "description":"Preview fotoblok liggend berkenplex"
+            }
+        ],
+        "2:3":[
+            {
+                "folder":"bamboe/fotoblok-staand/2-3",
+                "description":"Preview fotoblok staand bamboe"
+            },
+            {
+                "folder":"berkenplex/fotoblok-staand/2-3",
+                "description":"Preview fotoblok staand berkenplex"
+            }
+        ]
+    },
+    "kussensloop":{
+        "6:5":[
+            {
+                "folder":"kussensloop-liggend/6-5",
+                "description":"Preview kussensloop 60x50cm"
+            }
+        ],
+        "7:6":[
+            {
+                "folder":"kussensloop-liggend/7-6",
+                "description":"Preview kussensloop 70x60cm"
+            }
+        ]
+    },
+    "kussen":{
+        "1:1":[
+            {
+                "folder":"kussen-vierkant/1-1",
+                "description":"Preview kussen vierkant"
+            }
+        ],
+        "5:3":[
+            {
+                "folder":"kussen-liggend/5-3",
+                "description":"Preview kussen 50x30cm"
+            }
+        ],
+        "3:2":[
+            {
+                "folder":"kussen-liggend/3-2",
+                "description":"Preview kussen 60x40cm"
+            }
+        ]
+    },
+    "tegel":{
+        "1:1":[
+            {
+                "folder":"tegel-vierkant/1-1",
+                "description":"Preview tegel vierkant"
+            }
+        ]
+    },
+    "muismat":{
+        "1:1":[
+            {
+                "folder":"1-1",
+                "description":"Preview muismat vierkant"
+            }
+        ]
+    },
+    "sleutelhanger":{
+        "1:1":[
+            {
+                "folder":"vierkant",
+                "description":"Preview sleutelhanger rond"
+            }
+        ]
+    },
+    "canvastest":{
+        "1:1":[
+            {
+                "folder":"vierkant",
+                "description":"Preview sleutelhanger rond"
+            }
+        ]
+    }
+}
